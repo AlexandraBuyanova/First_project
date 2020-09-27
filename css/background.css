@@ -1,0 +1,27 @@
+.background{
+    background-color: black;
+    background-image: url("./../IMG/Img_Bike.png");
+    width: 1440px;
+    height: 825px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+.background_video{
+    background-color: black;
+    background-image: url("./../IMG/Bike3.png");
+    width: 929px;
+    height: 522px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+.map{
+    background: grey;
+    background-image: url("./../IMG/Map.png");
+    width: 957px;
+    height: 530px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+}

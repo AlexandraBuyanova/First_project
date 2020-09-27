@@ -1,0 +1,15 @@
+html,
+body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 1440px;
+    background-color: #ffffff;
+}
+.wrapper{
+    width: 1100px;
+    margin: 0 auto;
+}
